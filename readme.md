@@ -1,6 +1,6 @@
 # Customer GummyPoints
 
-## Very simple example API endpoint for Magento 2.
+## Very simple example API endpoint for Magento 2
 
 The purpose of this module is to provide an example API endpoint
 for frontend development examples.
@@ -9,7 +9,7 @@ for frontend development examples.
 
 Install via composer
 
-`composer require vinaikopp/module-example-gummypoints ^0.1`
+`composer require vinaikopp/module-example-gummypoints ^1.0.0`
 
 ## Usage
 
