@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Customer:etc/sections.xsd">
+    <action name="customer/account/loginPost">
+        <section name="customer-gummypoints"/>
+    </action>
+    <action name="customer/account/logout">
+        <section name="customer-gummypoints"/>
+    </action>
+    <action name="customer/ajax/login">
+        <section name="customer-gummypoints"/>
+    </action>
+    <action name="checkout/onepage/saveOrder">
+        <section name="customer-gummypoints"/>
+    </action>
+</config>
