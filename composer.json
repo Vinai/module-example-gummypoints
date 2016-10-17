@@ -1,6 +1,6 @@
 {
-    "name": "vinaikopp/module-gummypoints",
-    "description": "VinaiKopp API endpoint",
+    "name": "vinaikopp/module-example-gummypoints",
+    "description": "Example GummyPoints API endpoint",
     "require": {
         "php": "~5.6.0|^7.0.0"
     },
