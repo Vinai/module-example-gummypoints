@@ -9,7 +9,7 @@ for frontend development examples.
 
 Install via composer
 
-`composer require vinaikopp/module-gummypoints ^1.0.0`
+`composer require vinaikopp/module-example-gummypoints ^0.1`
 
 ## Usage
 
