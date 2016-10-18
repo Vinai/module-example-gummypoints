@@ -10,6 +10,8 @@ class RandomizedCustomerGummyPoints implements CustomerGummyPointsInterface
      */
     public function get($customerId)
     {
-        return mt_rand(1, 1000);
+        return 0 == $customerId ?
+            0 :
+            mt_rand(1, 1000);
     }
 }

@@ -29,5 +29,5 @@ The API endpoint is only open to admins authorized to manage customers.
 It will return a random integer value.
 
 The module also provides a customer data section with the code
-`customer-gummypoints`. It is refreshed during login, logout and
-`checkout/onepage/saveOrder` actions.
+`customer-gummypoints`. It is refreshed during login, logout,
+`checkout/onepage/saveOrder` and add to cart actions.

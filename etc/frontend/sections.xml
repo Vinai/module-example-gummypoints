@@ -13,4 +13,7 @@
     <action name="checkout/onepage/saveOrder">
         <section name="customer-gummypoints"/>
     </action>
+    <action name="checkout/cart/add">
+        <section name="customer-gummypoints"/>
+    </action>
 </config>
